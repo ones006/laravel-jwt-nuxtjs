@@ -1,0 +1,9 @@
+<template>
+  <b-container>
+    <div>
+      <h1>Home</h1>
+      <p>{{authenticated}}</p>
+      <p>{{user}}</p>
+    </div>
+  </b-container>
+</template>
